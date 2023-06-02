@@ -7,7 +7,7 @@
 * Tailwind CSS: um framework CSS utilitário que oferece classes pré-definidas para estilização rápida e consistente. Foi utilizado para estilizar a interface do eCommerce.
 * React.js: uma biblioteca JavaScript para criação de interfaces de usuário. Foi utilizado para construir a interface do eCommerce de forma modular e reutilizável.
 * MongoDB: um banco de dados NoSQL orientado a documentos. Foi utilizado para armazenar os dados do eCommerce, como informações de produtos, pedidos e usuários.
-Funcionalidades
+
 
 ## Funcionalidades principais:
 * Cadastro e autenticação de usuários: os usuários podem criar uma conta e fazer login para acessar o eCommerce.
