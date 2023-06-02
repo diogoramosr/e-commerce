@@ -23,3 +23,10 @@ Execute o comando npm install para instalar as dependências do projeto.
 Configure as variáveis de ambiente no arquivo .env com as informações necessárias para a conexão com o banco de dados e outras configurações específicas.
 Execute o comando npm start para iniciar a aplicação.
 Acesse o eCommerce no seu navegador através do endereço http://localhost:3333.
+
+
+![ScreenGames](https://github.com/diogoramosr/e-commerce/assets/100318805/e52cd67e-1116-4272-9de7-95e721984473)
+![ScreenHome](https://github.com/diogoramosr/e-commerce/assets/100318805/148788f7-b752-4238-80b7-9262cb4e65c6)
+
+---
+
