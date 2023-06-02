@@ -23,8 +23,7 @@ Funcionalidades
 <div align="center">
   
   ![ScreenGames](https://github.com/diogoramosr/e-commerce/assets/100318805/b3e29271-99b2-4693-96a2-ea28de1d03bb)
-
- 
+  ![ScreenHome](https://github.com/diogoramosr/e-commerce/assets/100318805/e49857a0-816c-4939-91b1-6e9bc7c38aa3)
 </div>
 
 ---
