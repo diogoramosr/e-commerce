@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+}
+
+.app {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* CARROUSEL */
+.gallery-cell {
+  height: 386px;
+  padding-right: 15px;
+}
+
+@media (min-width: 300px) and (max-width: 420px) {
+  .gallery-cell {
+    height: 286px !important;
+
+  }
+}
+
+@media (max-width: 640px) {
+  .gallery-cell {
+    padding-right: 0;
+  }
+}
+
+.carousel__sliderLarge {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.carousel__inner-slideLarge {
+  width: calc(100% - 20px);
+  height: calc(100% - 20px);
+  left: 10px;
+  top: 10px;
+}
+
+
+
+/* TESTIMOLS */
+@media (min-width: 768px) {
+  .swiper-slide-active {
+    width: 100% !important;
+  }
+
+  .swiper-slide,
+  .swiper-slider-next {
+    width: 100% !important;
+    flex-shrink: inherit;
+  }
+}
+
+.swiper-button-next {
+  position: relative;
+}
+
+.swiper-button-prev {
+  position: relative;
+  margin-right: 15px;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  content: " ";
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  width: auto;
+  height: auto;
+}
+
+.swiper-button-next.swiper-button-disabled,
+.swiper-button-prev.swiper-button-disabled {
+  opacity: 1
+}
+
+
+/* LOADER */
+@keyframes loader {
+  0% {
+    width: 0;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+.animate-loader {
+  animation: loader 2s infinite;
+}

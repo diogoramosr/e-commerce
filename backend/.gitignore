@@ -1,0 +1,6 @@
+/node_modules/
+.env
+
+# PASTA DE FOTOS
+/public/uploads/
+```
