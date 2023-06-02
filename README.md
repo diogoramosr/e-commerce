@@ -22,6 +22,8 @@ Funcionalidades
 
 <div align="center">
   
+  ![ScreenGames](https://github.com/diogoramosr/e-commerce/assets/100318805/b3e29271-99b2-4693-96a2-ea28de1d03bb)
+
  
 </div>
 
