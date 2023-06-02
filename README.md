@@ -1,6 +1,6 @@
 # Projeto eCommerce
 
-Este é um projeto pessoal de eCommerce desenvolvido utilizando Node.js, Tailwind CSS, React.js e MongoDB. O objetivo deste projeto é treinar minhas habilidades no desenvolvimento de aplicações web, criando uma aplicação completa para gerenciar um eCommerce.
+<p>Este é um projeto pessoal de eCommerce desenvolvido utilizando Node.js, Tailwind CSS, React.js e MongoDB. O objetivo deste projeto é treinar minhas habilidades no desenvolvimento de aplicações web, criando uma aplicação completa para gerenciar um eCommerce.</p>
 
 # Tecnologias Utilizadas
 * Node.js: uma plataforma de desenvolvimento de aplicações web que utiliza JavaScript no servidor. Foi utilizado para criar a API e o servidor do eCommerce.
@@ -17,17 +17,13 @@ Funcionalidades
 * Gerenciamento de estoque: os administradores do eCommerce podem adicionar, editar e remover produtos, mantendo o controle do estoque.
 
 # Instalação e Execução
-Faça o clone deste repositório.
-Navegue até o diretório raiz do projeto.
-Execute o comando npm install para instalar as dependências do projeto.
-Configure as variáveis de ambiente no arquivo .env com as informações necessárias para a conexão com o banco de dados e outras configurações específicas.
-Execute o comando npm start para iniciar a aplicação.
-Acesse o eCommerce no seu navegador através do endereço http://localhost:3333.
+<p>Faça o clone deste repositório. Navegue até o diretório raiz do projeto. Execute o comando npm install para instalar as dependências do projeto. Configure as variáveis de ambiente no arquivo .env com as informações necessárias para a conexão com o banco de dados e outras configurações específicas. Execute o comando npm start para iniciar a aplicação. Acesse o eCommerce no seu navegador através do endereço http://localhost:3333.</p>
 
 
-![ScreenGames](https://github.com/diogoramosr/e-commerce/assets/100318805/e52cd67e-1116-4272-9de7-95e721984473)
-
-![ScreenHome](https://github.com/diogoramosr/e-commerce/assets/100318805/148788f7-b752-4238-80b7-9262cb4e65c6)
+<div align="center">
+  
+ 
+</div>
 
 ---
 
