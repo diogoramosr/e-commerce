@@ -100,7 +100,7 @@ export default function PageDetalhes() {
           setProducts(response.data);
         })
         .catch(() => {
-          // navigation("/", { replace: true });
+          navigation("/", { replace: true });
         });
     }
     loadProducts();
